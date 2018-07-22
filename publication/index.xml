@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on LPWANSys</title>
-    <link>https://chaojiegu.github.io/lpwansys.github.io/publication/</link>
+    <link>https://ntusg-iot.github.io/lpwansys/publication/</link>
     <description>Recent content in Publications on LPWANSys</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://chaojiegu.github.io/lpwansys.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ntusg-iot.github.io/lpwansys/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
