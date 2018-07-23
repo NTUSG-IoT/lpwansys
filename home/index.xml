@@ -13,31 +13,13 @@
     
     
     <item>
-      <title></title>
-      <link>https://ntusg-iot.github.io/lpwansys/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://ntusg-iot.github.io/lpwansys/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
-    </item>
-    
-    <item>
       <title>LPWANSys</title>
       <link>https://ntusg-iot.github.io/lpwansys/home/lpwansys/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://ntusg-iot.github.io/lpwansys/home/lpwansys/</guid>
-      <description>The 1st Workshop on LPWAN Systems and Applications in Conjunction with IEEE ICPADS 2018</description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>https://ntusg-iot.github.io/lpwansys/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://ntusg-iot.github.io/lpwansys/home/publications_selected/</guid>
-      <description></description>
+      <description>The 1st Workshop on LPWAN Systems and Applications in Conjunction with IEEE ICPADS 2018
+December 11-13, 2018, Sentosa, Singapore</description>
     </item>
     
     <item>
@@ -50,21 +32,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://ntusg-iot.github.io/lpwansys/home/publications/</link>
+      <title>Important Dates</title>
+      <link>https://ntusg-iot.github.io/lpwansys/home/dates/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>https://ntusg-iot.github.io/lpwansys/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://ntusg-iot.github.io/lpwansys/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://ntusg-iot.github.io/lpwansys/home/talks/</guid>
-      <description></description>
+      <guid>https://ntusg-iot.github.io/lpwansys/home/dates/</guid>
+      <description> Paper Submission Deadline: September 15, 2018 Paper Notification: September 26, 2018 Camera Ready: October 1, 2018  </description>
     </item>
     
     <item>
@@ -73,34 +46,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://ntusg-iot.github.io/lpwansys/home/organizers/</guid>
-      <description> Program Chairs  Rui Tan, Nanyang Technological University Jiliang Wang, Tsinghua University Jun Huang, Peking University  Web Chair  Chaojie Gu, Nanyang Technological University  </description>
-    </item>
-    
-    <item>
-      <title>Important Dates</title>
-      <link>https://ntusg-iot.github.io/lpwansys/home/dates/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://ntusg-iot.github.io/lpwansys/home/dates/</guid>
-      <description> Paper Submission Deadline: TBA Paper Notification: TBA Camera Ready: TBA  </description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>https://ntusg-iot.github.io/lpwansys/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://ntusg-iot.github.io/lpwansys/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://ntusg-iot.github.io/lpwansys/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://ntusg-iot.github.io/lpwansys/home/projects/</guid>
-      <description></description>
+      <description> Program Chairs  Rui Tan, Nanyang Technological University Jiliang Wang, Tsinghua University Jun Huang, Peking University  Program Committee TBD
+Web Chair  Chaojie Gu, Nanyang Technological University  </description>
     </item>
     
     <item>
@@ -109,25 +56,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>https://ntusg-iot.github.io/lpwansys/home/guide/</guid>
-      <description>TBA</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://ntusg-iot.github.io/lpwansys/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://ntusg-iot.github.io/lpwansys/home/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://ntusg-iot.github.io/lpwansys/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://ntusg-iot.github.io/lpwansys/home/contact/</guid>
-      <description></description>
+      <description>Each submission must not exceed 6 pages in the IEEE 8.5 &amp;ldquo;x11&amp;rdquo; two-column format with 10-point font, including tables, figures, and references. Submissions should be formatted using the template provided below and in PDF format. The review process is single-blind so the submissions should include author information.
+All submissions will be reviewed by the Program Committee members. At least one author of the accepted paper should register the workshop and present the paper in the workshop in order for the accepted paper to be included into the IEEE digital library.</description>
     </item>
     
   </channel>
